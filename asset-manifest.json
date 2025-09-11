@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PSC-Learning-App/static/css/main.27ab47ef.css",
+    "main.js": "/PSC-Learning-App/static/js/main.32bd727b.js",
+    "static/js/453.f1e2b710.chunk.js": "/PSC-Learning-App/static/js/453.f1e2b710.chunk.js",
+    "index.html": "/PSC-Learning-App/index.html",
+    "main.27ab47ef.css.map": "/PSC-Learning-App/static/css/main.27ab47ef.css.map",
+    "main.32bd727b.js.map": "/PSC-Learning-App/static/js/main.32bd727b.js.map",
+    "453.f1e2b710.chunk.js.map": "/PSC-Learning-App/static/js/453.f1e2b710.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27ab47ef.css",
+    "static/js/main.32bd727b.js"
+  ]
+}
